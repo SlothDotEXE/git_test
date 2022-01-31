@@ -1,0 +1,3 @@
+Hello world!
+
+This is a file used for the staging process in the git workflow.
